@@ -45,7 +45,7 @@ Additionally, we will provide links to slides and other information on the cours
 Buffalo, V. ​Bioinformatics Data Skills​. Sebastopol, CA: O’Reilly Media, Inc., 2015. Print and eBook.
 
 Iowa State University has purchased 6 seats for O’Reilly eBooks through Safari-ProQuest. T​his means that only 6 users at a time can access any/all of the O’Reilly books. Please feel free to utilize this resource, but be sure to close your browser window when done reading in order to free up a seat for other users. If you receive a message that the book is unavailable, keep checking back until a seat is available. A direct link to the book through the ISU library is found below:<br>
-[http://proquest.safaribooksonline.com.proxy.lib.iastate.edu/9781449367480?uicode=iastate](http://proquest.safaribooksonline.com.proxy.lib.iastate.edu/9781449367480?uicode=iastate)
+[https://learning.oreilly.com/library/view/bioinformatics-data-skills/9781449367480/?sso_link=yes&sso_link_from=iowa-state-university](https://learning.oreilly.com/library/view/bioinformatics-data-skills/9781449367480/?sso_link=yes&sso_link_from=iowa-state-university)
 
 ### Additional Text
 
