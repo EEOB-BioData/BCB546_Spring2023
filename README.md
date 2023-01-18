@@ -19,13 +19,13 @@ cd Desktop/BCB546_2023
 Now, you can clone the repository:
 
 ```
-git clone git@github.com:EEOB-BioData/BCB546-Spring2023.git
+git clone git@github.com:EEOB-BioData/BCB546_Spring2023.git
 ```
 
 Or you can use the HTTPS URL:
 
 ```
-git clone https://github.com/EEOB-BioData/BCB546-Spring2023.git
+git clone https://github.com/EEOB-BioData/BCB546_Spring2023.git
 ```
 
 Now you have access to all of the files currently in the repository.
